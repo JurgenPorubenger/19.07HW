@@ -1,0 +1,15 @@
+{
+  "name": "16.07cw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "public/httpServer.js",
+  "scripts": {
+    "start": "node public/httpServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid4": "^1.1.4"
+  }
+}
